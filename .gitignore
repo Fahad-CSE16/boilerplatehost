@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+#env skipping
+/host
 
 
 # misc
